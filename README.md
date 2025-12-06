@@ -36,8 +36,13 @@ Model Training Workflow (Notebook):
 The notebook linear_regression L6.ipynb performs these steps:
 
   1️. Import libraries & dataset
+  
   2️. Exploratory Data Analysis
+  
   3️. Train-Test Split
+  
   4️. Train Linear Regression Model
+  
   5️. Evaluate Performance
+  
   6️. Save Model Using Pickle
